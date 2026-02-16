@@ -1,10 +1,6 @@
 # 📊 Virtual Power BI Visualization Internship
 **Organization:** [YuvaIntern](https://yuvaintern.com) | **Duration:** Feb 2026 – Mar 2026 (4 Weeks)
 
-![Power BI](https://img.shields.io) 
-![Status](https://img.shields.io) 
-![Role](https://img.shields.io)
-
 ## 📌 Project Overview
 This repository contains the end-to-end deliverables for my virtual internship at **YuvaIntern**. The project follows a structured 4-week roadmap, transforming a hypothetical business problem into a fully optimized, AI-driven Power BI solution.
 
