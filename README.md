@@ -46,3 +46,6 @@ This repository contains the end-to-end deliverables for my virtual internship a
 ├── Week 3/        # Analytics Evaluation & Refined Reports
 ├── Week 4/        # Final Execution Plan & Executive Summary
 └── README.md      # Project Documentation (Current)
+<img width="1198" height="682" alt="image" src="https://github.com/user-attachments/assets/df9da795-77ab-4cb6-b199-55cc571e76bb" />
+<img width="1191" height="681" alt="image" src="https://github.com/user-attachments/assets/1ab0d3c7-cd9f-4b1c-a398-21f0f273e9bc" />
+
